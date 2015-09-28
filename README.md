@@ -2,6 +2,7 @@ todo
 ====
 
 [![Build Status](https://travis-ci.org/mrekucci/todo.svg)](https://travis-ci.org/mrekucci/todo)
+[![Coverage Status](https://coveralls.io/repos/mrekucci/todo/badge.svg?branch=master&service=github)](https://coveralls.io/github/mrekucci/todo?branch=master)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt)
 
 A simple REST API based in-memory storage for TODO application.
