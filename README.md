@@ -1,6 +1,8 @@
 todo
 ====
 
+[![Build Status](https://travis-ci.org/mrekucci/todo.svg)](https://travis-ci.org/mrekucci/todo)
+
 A simple REST API based in-memory storage for TODO application.
 
 Usage
