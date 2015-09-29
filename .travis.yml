@@ -11,4 +11,4 @@ before_install:
 script:
   - pwd
   - goveralls
-  #- $HOME/gopath/bin/goveralls -package=$TRAVIS_BUILD/internal/task/ -service=travis-ci
+  - goveralls -package=$TRAVIS_BUILD/internal/task/ -service=travis-ci
