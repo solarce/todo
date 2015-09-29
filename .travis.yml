@@ -10,5 +10,6 @@ before_install:
 
 script:
   - pwd
+  - ls -lah
   - goveralls
   - goveralls -package=$TRAVIS_BUILD_DIR/internal/task/ -service=travis-ci
