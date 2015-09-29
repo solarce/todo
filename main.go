@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrekucci/todo/internal/task"
+	"github.com/solarce/todo/internal/task"
 )
 
 // corsHeaders wraps http.HandlerFunc and adds CORS headers to response.
